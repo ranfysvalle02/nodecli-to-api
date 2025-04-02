@@ -363,13 +363,6 @@ If your application relies on environment variables, consider using the `dotenv`
 - **Use Multi-Stage Builds**: Reduce image size by copying only necessary files.  
 - **Add a `.dockerignore` File**: Exclude unnecessary files from the build context.  
    
-### References  
-   
-- [Node.js Child Processes](https://nodejs.org/api/child_process.html)  
-- [Express.js Documentation](https://expressjs.com/)  
-- [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/)  
-- [Dockerizing a Node.js Web Application](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)  
-   
 ---  
    
 ## Conclusion  
