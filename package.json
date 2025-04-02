@@ -1,0 +1,1 @@
+{"name":"init-demo-tool","version":"1.0.0","description":"A CLI tool to initialize demo with file input","main":"init-demo.js","bin":{"init-demo":"./init-demo.js"},"scripts":{"init-demo":"node init-demo.js"},"keywords":[],"author":"","license":"ISC","dependencies":{"chalk":"^5.3.0","commander":"^10.0.0","express":"^5.1.0"}}
