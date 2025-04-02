@@ -8,7 +8,7 @@
    
 In modern software development, flexibility and composability are key principles that drive the architecture of robust applications. Developers are often faced with choices about how to structure their applications for maximum efficiency, scalability, and ease of integration.  
    
-In this blog post, we'll explore a Node.js application that combines an Express.js server with a custom CLI tool. We'll demonstrate how to run the application both using Docker and without it, using `node server.js`. Additionally, we'll delve into the value and flexibility of adopting an API-based approach, especially in contrast with single-purpose CLI tools that lack interfaces beyond the command line.  
+In this post, we'll explore a Node.js application that combines an Express.js server with a custom CLI tool. We'll demonstrate how to run the application both using Docker and without it, using `node server.js`. Additionally, we'll delve into the value and flexibility of adopting an API-based approach, especially in contrast with single-purpose CLI tools that lack interfaces beyond the command line.  
    
 By the end of this tutorial, you'll understand not only how to build and run the application but also the advantages and considerations of different architectural choices.  
    
